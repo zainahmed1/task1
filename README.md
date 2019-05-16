@@ -1,2 +1,2 @@
 # CV
-my website is published at http://zainahmed1.githup.io/cv/.
+my website is published at http://zainahmed1.githup.com/cv/.
